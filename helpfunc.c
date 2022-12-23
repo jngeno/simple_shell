@@ -219,10 +219,9 @@ void _help(server_t *ptrData)
  */
 
 void _exits(server_t *ptrData)
+  {
   
-{
-  
-  int input = EXIT_SUCCESS;
+  	int input = EXIT_SUCCESS;
   
 
   
